@@ -1,5 +1,5 @@
 # Dev Resource
-Original Script: https://github.com/TGIANN/tgiann-attachproptoplayereditor\
+Original Script: https://github.com/TGIANN/tgiann-attachproptoplayereditor \
 Need: [uiprompt](https://github.com/kibook/redm-uiprompt)
 
 ## How to use
